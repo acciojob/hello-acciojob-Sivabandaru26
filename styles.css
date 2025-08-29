@@ -3,12 +3,10 @@
 main.accio#job{
 	width: 150px;
 	height: 150px;
-	background-colour: #000000;
+	background-color: #000000;
 }
 .hello-accio{
-	colour: #ffffff;
+	color: #ffffff;
 	margin-left: 32px;
 	padding: 10px;
-}
-	
 }
